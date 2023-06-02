@@ -1,9 +1,9 @@
 # LAVI's EasyOCR with OpenAI API and Unsplash API Side Project
+###### tags: `Side Project` `OpenAI API` `OCR` `Unsplash API` `LAVI` `2023` 
 利用 [Unsplash API](https://unsplash.com/) download dataset、透過 [OpenAI API model](https://platform.openai.com/docs/api-reference/images) image to image、使用 easyOCR text detection
 
 ## Information 
 ### Details
-
 #### 1. 利用 Unsplash API 下載 Unsplash dataset 中指定類型的圖片
 - 先於 Unsplash 註冊帳號成為 Developer 後進入[Application 頁面](https://unsplash.com/oauth/applications)創建自己的 App 後獲得 Access Key
 - 我撰寫了 `UnsplashDownloadImage.py`，給予 keyword 及張數來下載圖片
