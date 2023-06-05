@@ -11,6 +11,7 @@
 #### 2-1. 透過 OpenAI API 將從 Unsplash 下載的圖生成 variation 變化圖
 - 我撰寫了 `ImageToImageWithOpenAI.py` 將方才從 Unsplash API 下載的圖藉由 OpenAI API model 訓練並生成相似變化圖
 	- 因為 OpenAI API 只吃 `.png`，而從 Unsplash API 下載的圖片是 `.jpg`，所以要轉檔
+	- 最後輸出為生成之 variation 圖片的 URL 連結，並將其下載於指定本機資料夾中
 
 #### 2-2. 透過 OpenAI API prompt 生成圖片
 - 先利用命令生成圖片模型 `openai api image.create -p “license plate from an image with many cars”`
