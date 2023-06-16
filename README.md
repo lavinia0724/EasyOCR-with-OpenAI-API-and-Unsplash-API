@@ -1,5 +1,5 @@
 # LAVI's EasyOCR with OpenAI API and Unsplash API Side Project
-###### tags: `Side Project` `OpenAI API` `OCR` `Unsplash API` `LAVI` `2023` 
+###### tags: `Side Project` `Unsplash API` `OpenAI API` `OCR` `LAVI` `2023` 
 利用 [Unsplash API](https://unsplash.com/) download dataset、透過 [OpenAI API model](https://platform.openai.com/docs/api-reference/images) image to image、使用 easyOCR text detection
 
 ## Information 
