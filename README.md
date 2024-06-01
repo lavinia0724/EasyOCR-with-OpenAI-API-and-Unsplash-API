@@ -2,6 +2,8 @@
 ###### tags: `Side Project` `Unsplash API` `OpenAI API` `OCR` `LAVI` `2023` 
 利用 [Unsplash API](https://unsplash.com/) download dataset、透過 [OpenAI API model](https://platform.openai.com/docs/api-reference/images) image to image、使用 easyOCR text detection
 
+我的部落格文章：[OpenAI API - EasyOCR with OpenAI API and Unsplash API Side Project](https://lavinia0724.github.io/2023/05/16/OpenAI-API-EasyOCR-with-OpenAI-API/)
+
 ## Information 
 ### Details
 #### 1. 利用 Unsplash API 下載 Unsplash dataset 中指定類型的圖片
